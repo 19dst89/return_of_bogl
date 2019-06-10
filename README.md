@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...gbfjdbgkdfbfdbkjvdf vjkdf vjkdfk
+cant get git to wokr for some reason.
